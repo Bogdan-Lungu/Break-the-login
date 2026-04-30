@@ -1,0 +1,10 @@
+data base:
+    python db_init.py
+
+app 1: 
+    python app_v1.py
+
+app 2: 
+    source venv/bin/activate
+    python app_v2.py
+
